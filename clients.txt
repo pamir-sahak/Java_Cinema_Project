@@ -1,0 +1,7 @@
+ahmet,ahmet@gmail.com,5059993311,ahme123
+ali,ali@gmail.com,464647989,123456
+hatice,hatice@yahoo.com,798746654,hati123
+Mesut,mesut@gmail.com,5558889922,12345
+ayse,ayse23@gmail.com,5554448899,ay123
+harun,harun.er@gmail.com,555999331177,789
+mehmet,mehmet@gmail.com,5554449911,123

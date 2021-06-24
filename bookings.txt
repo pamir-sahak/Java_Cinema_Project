@@ -1,0 +1,38 @@
+ahmet,The Matrix,B2,19-08-2021,10:00,5059993311
+ahmet,The Matrix,B3,19-08-2021,10:00,5059993311
+ahmet,Hababam sınıfı,D4,25-08-2021,10:00,5059993311
+ahmet,Hababam sınıfı,D3,25-08-2021,10:00,5059993311
+ayse,Cep Herkülü: Naim Süleymanoğlu,B2,19-08-2021,10:00,5554448899
+ayse,Avegers End Game,B3,05-06-2021,14:00,5554448899
+ayse,Avegers End Game,B2,05-06-2021,14:00,5554448899
+Mesut,3 idots,B4,19-08-2021,10:00,5558889922
+Mesut,3 idots,B3,19-08-2021,10:00,5558889922
+Mesut,Finding Nemo,C1,01-08-2021,12:00,5558889922
+Mesut,Finding Nemo,C2,01-08-2021,12:00,5558889922
+Mesut,Finding Nemo,C3,01-08-2021,12:00,5558889922
+ali,Star Wars,A3,19-08-2021,10:00,464647989
+ali,Star Wars,A4,19-08-2021,10:00,464647989
+ali,Godzilla vs Kong,D3,05-08-2021,14:00,464647989
+ali,Project Power,A1,02-08-2021,12:00,464647989
+hatice,Recep ivedik 5,C2,19-08-2021,10:00,798746654
+hatice,Recep ivedik 5,C3,19-08-2021,10:00,798746654
+hatice,Türkler Geliyor,D3,2022-05-12,11:00,798746654
+hatice,Türkler Geliyor,D4,2022-05-12,11:00,798746654
+hatice,Türkler Geliyor,D2,2022-05-12,11:00,798746654
+hatice,Up,A3,04-08-2021,13:00,798746654
+harun,Fast & Furious 9,C2,01-08-2021,12:00,555999331177
+harun,Fast & Furious 9,C3,01-08-2021,12:00,555999331177
+harun,Cep Herkülü: Naim Süleymanoğlu,C3,19-08-2021,10:00,555999331177
+harun,Cep Herkülü: Naim Süleymanoğlu,C4,19-08-2021,10:00,555999331177
+harun,Black Panther,D3,18-09-2021,13:00,555999331177
+harun,Black Panther,D2,18-09-2021,13:00,555999331177
+harun,Black Panther,D4,18-09-2021,13:00,555999331177
+ahmet,Daimond Blood,D3,19-07-2021,11:00,5059993311
+ahmet,Daimond Blood,D4,19-07-2021,11:00,5059993311
+Mesut,The Expendables 3,C3,01-08-2021,10:00,5558889922
+Mesut,The Expendables 3,C2,01-08-2021,10:00,5558889922
+mehmet,Finding Nemo,D3,01-08-2021,12:00,5554447733
+mehmet,Finding Nemo,D2,01-08-2021,12:00,5554447733
+mehmet,Men in Black: International,C3,01-08-2021,16:00,5554449911
+mehmet,IT,C1,19-08-2021,10:00,5554449911
+mehmet,Star Wars,D3,19-08-2021,10:00,5554449911

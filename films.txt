@@ -1,0 +1,30 @@
+3 idots,Hindi,Comedy,2009,50,../images/3idots.jpg,19-08-2021,10:00,13:00,Hall A
+Daimond Blood,English,Action,2006,40,../images/daimondblood.jpeg,19-07-2021,11:00,13:00,Hall B
+Hababam sınıfı,Turkish,Comedy,1975,60,../images/Hababam-sinifi.jpg,25-08-2021,10:00,13:00,Hall C
+IT,English,Horror,2017,50,../images/IT.jpg,19-08-2021,10:00,13:00,Hall D
+The Matrix,English,Action,1991,50,../images/Matrix-film.jpg,19-08-2021,10:00,13:00,Hall A
+Cep Herkülü: Naim Süleymanoğlu,Turkish,Biography,2019,50,../images/naim.jpg,19-08-2021,10:00,13:00,Hall B
+PK,Hindi,Comedy,2014,60,../images/pk.jpg,19-08-2021,10:00,13:00,Hall C
+Recep ivedik 5,Turkish,Comedy,2017,40,../images/recep5.jpg,19-08-2021,10:00,13:00,Hall D
+Star Wars,English,Action,2000,70,../images/starwars.jpg,19-08-2021,10:00,13:00,Hall E
+Black Panther,English,Action,2018,40,../images/panther.jpg,18-09-2021,13:00,15:00,Hall A
+Türkler Geliyor,Turkish,Action,2020,60.0,../images/turkler-geliyor.jpg,2022-05-12,11:00,13:00,Hall B
+Ayla,Turkish,Action,2017,40.0,../images/ayla.jpg,30-05-2021,16:00,18:00,Hall C
+Avegers End Game,English,Action,2019,50.0,../images/marvel.jpg,05-06-2021,14:00,16:00,Hall D
+The Expendables 3,English,Action,2014,30.0,../images/expendables3.jpg,01-08-2021,10:00,12:00,Hall A
+Fast & Furious 9,English,Action,2021,60.0,../images/f9.jpg,01-08-2021,12:00,14:00,Hall B
+Finding Nemo,English,Animation,2003,30.0,../images/Finding_Nemo.jpg,01-08-2021,12:00,14:00,Hall A
+The Penguins of Madagascar,English,Animation,2014,20.0,../images/madagascar.jpg,01-08-2021,14:00,16:00,Hall A
+Men in Black: International,English,Action,2019,50.0,../images/mib.jpg,01-08-2021,16:00,18:00,Hall A
+Moana,English,Animation,2016,40.0,../images/moana.jpg,01-08-2021,18:00,20:00,Hall A
+Nefes Vatan sağolsun,Turkish,Action,2009,40.0,../images/nefes.jpg,02-08-2021,10:00,12:00,Hall B
+Project Power,English,Action,2020,50.0,../images/projectPower.jpg,02-08-2021,12:00,14:00,Hall B
+Rambo Last Blood,English,Action,2019,50.0,../images/rabmoLastBlood.jpg,02-08-2021,16:00,18:00,Hall B
+Toy Story 3,English,Animation,2010,20.0,../images/toyStory3.jpeg,03-08-2021,10:00,12:00,Hall C
+Up,English,Animation,2009,25.0,../images/up.jpg,04-08-2021,13:00,15:00,Hall D
+Dağ,Turkish,Action,2012,30.0,../images/dag.jpg,05-08-2021,10:00,12:00,Hall E
+Eşkıya,Turkish,Action,1996,20.0,../images/eskiya.jpg,05-08-2021,12:00,14:00,Hall E
+Godzilla vs Kong,English,Action,2021,50.0,../images/godzilla.jpg,05-08-2021,14:00,18:00,Hall E
+How to Train Your Dragon 2,English,Animation,2014,25.0,../images/howToTrainYourDragon2.jpg,05-08-2021,10:00,12:00,Hall D
+Kara Komik,Turkish,Comedy,2019,35.0,../images/karaKomik.jpg,05-08-2021,12:00,14:00,Hall D
+Sadece Sen,Turkish,Romantic,2014,30.0,../images/sadeceSen.jpg,05-08-2021,16:00,18:00,Hall D

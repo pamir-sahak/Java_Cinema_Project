@@ -1,0 +1,15 @@
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.background{
+    -fx-background-image: url('../images/back2.jpg');
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
+
+.column-header .label{
+   -fx-background-color:  #38b791;
+   -fx-text-fill: white;
+   -fx-border-color: none;
+}

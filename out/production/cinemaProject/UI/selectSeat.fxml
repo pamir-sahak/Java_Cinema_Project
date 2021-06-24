@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="527.0" prefWidth="797.0" style="-fx-background-color: none;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UI.SelectSeatController">
+   <children>
+      <Pane layoutX="597.0" prefHeight="527.0" prefWidth="200.0" style="-fx-background-color: rgb(250,250,250);">
+         <children>
+            <Button fx:id="btnGoToMainPage" layoutX="40.0" layoutY="25.0" mnemonicParsing="false" onAction="#gotoMainPage" prefHeight="35.0" prefWidth="119.0" style="-fx-background-color: #38b791;" text="Main Page" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="19.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/icons8_home_50px_1.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <ImageView fitHeight="75.0" fitWidth="60.0" layoutX="70.0" layoutY="190.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../icons/armchair.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="58.0" layoutY="154.0" text="Free Seat">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="75.0" fitWidth="60.0" layoutX="70.0" layoutY="308.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../icons/armchairRed.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="58.0" layoutY="272.0" text="Booked Seat">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="75.0" fitWidth="60.0" layoutX="70.0" layoutY="426.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../icons/armchairGreen.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="40.0" layoutY="390.0" text="Selected Seat">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Button fx:id="btnPay" layoutX="41.0" layoutY="92.0" mnemonicParsing="false" onAction="#pay" prefHeight="35.0" prefWidth="119.0" style="-fx-background-color: #38b791;" text="Pay" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="19.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/icons8_money_bag_50px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </Pane>
+      <Pane prefHeight="527.0" prefWidth="592.0">
+         <children>
+            <Pane layoutX="21.0" layoutY="438.0" prefHeight="67.0" prefWidth="528.0" style="-fx-background-color: black; -fx-background-radius: 25;">
+               <children>
+                  <Label layoutX="220.0" layoutY="7.0" text="Screen" textFill="WHITE">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <CheckBox fx:id="A1" contentDisplay="CENTER" ellipsisString="" layoutX="86.0" layoutY="39.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="A1img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="B1" contentDisplay="CENTER" ellipsisString="" layoutX="86.0" layoutY="128.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="B1img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="C1" contentDisplay="CENTER" ellipsisString="" layoutX="86.0" layoutY="213.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="C1img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="D1" contentDisplay="CENTER" ellipsisString="" layoutX="86.0" layoutY="302.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="D1img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="A2" contentDisplay="CENTER" ellipsisString="" layoutX="194.0" layoutY="39.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="A2img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="B2" contentDisplay="CENTER" ellipsisString="" layoutX="194.0" layoutY="128.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="B2img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="C2" contentDisplay="CENTER" ellipsisString="" layoutX="194.0" layoutY="213.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="C2img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="D2" contentDisplay="CENTER" ellipsisString="" layoutX="194.0" layoutY="302.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="D2img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="A3" contentDisplay="CENTER" ellipsisString="" layoutX="308.0" layoutY="40.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="A3img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="B3" contentDisplay="CENTER" ellipsisString="" layoutX="308.0" layoutY="129.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="B3img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="C3" contentDisplay="CENTER" ellipsisString="" layoutX="308.0" layoutY="214.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="C3img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="D3" contentDisplay="CENTER" ellipsisString="" layoutX="308.0" layoutY="303.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="D3img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="A4" contentDisplay="CENTER" ellipsisString="" layoutX="429.0" layoutY="39.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="A4img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="B4" contentDisplay="CENTER" ellipsisString="" layoutX="429.0" layoutY="128.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="B4img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <CheckBox fx:id="C4" contentDisplay="CENTER" ellipsisString="" layoutX="429.0" layoutY="213.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="C4img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+            <Label layoutX="29.0" layoutY="43.0" text="A">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="29.0" layoutY="133.0" text="B">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="29.0" layoutY="218.0" text="C">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="29.0" layoutY="305.0" text="D">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="124.0" text="1">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="236.0" layoutY="-5.0" prefHeight="45.0" prefWidth="23.0" text="2">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="348.0" layoutY="-2.0" text="3">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="467.0" text="4">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="D4" contentDisplay="CENTER" ellipsisString="" layoutX="429.0" layoutY="303.0" mnemonicParsing="false" onAction="#selection">
+               <graphic>
+                  <ImageView fx:id="D4img" fitHeight="75.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../icons/armchair.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,2 @@
+pamir,pamirslfdd,46546,12345
+admin,123456,646545,admin
