@@ -16,11 +16,6 @@ text there.
 
 
 
-
-
-
-
-
 Eclipse JavaFx VM Options:
 Right Click on project folder > Run as > Run Configurations > click on arguments tab
 then copy the text below and past it in VM arguments text box then click on apply
@@ -34,3 +29,6 @@ now you can run the project.
 Important note: The Working directory in Run Configuration should be "your path\cinemaProject"
 so that project can work otherwise it would not be able to read and write data which will
 case the project to crash.
+
+
+Disclaimer: this is just a hobby project for non-commercial use only none of these icons belongs to me I just found them throw the internet.
