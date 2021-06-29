@@ -31,4 +31,4 @@ so that project can work otherwise it would not be able to read and write data w
 case the project to crash.
 
 
-Disclaimer: this is just a hobby project for non-commercial use only none of these icons belongs to me I just found them throw the internet.
+Disclaimer: this is just a hobby project for non-commercial use only none of these icons or images belongs to me I just found them throw the internet. Data (names, emails, phone numbers) used is this application is just some dummy (sample) data. 
